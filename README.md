@@ -1,1 +1,2 @@
-# Some papers, mostly done as term projects @FESB.
+#Papers
+Some papers, mostly done as term projects @FESB.
